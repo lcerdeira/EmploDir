@@ -1,77 +1,80 @@
-# Kleborate_viz
+# Employee Directory
+  
+  ![Code Count](https://img.shields.io/github/languages/count/lcerdeira/workout-tracker) 
+  ![Main Code Base](https://img.shields.io/github/languages/top/lcerdeira/workout-tracker) 
+  ![License](https://img.shields.io/badge/license-MIT-blue) 
+  ![Version](https://img.shields.io/badge/version-1.0-red) 
+  ![Last Commit](https://img.shields.io/github/last-commit/lcerdeira/workout-tracker) 
+  ![Open Issues](https://img.shields.io/github/issues-raw/lcerdeira/workout-tracker) 
+  ![Repo Size](https://img.shields.io/github/repo-size/lcerdeira/workout-tracker)
 
-![Code Count](https://img.shields.io/github/languages/count/kelwyres/Kleborate_viz)
-![Main Code Base](https://img.shields.io/github/languages/top/kelwyres/Kleborate_viz)
-![License](https://img.shields.io/badge/License-GPL%20v3-blue)
-![Version](https://img.shields.io/badge/version-1.0-red)
-![Last Commit](https://img.shields.io/github/last-commit/kelwyres/Kleborate_viz)
-![Open Issues](https://img.shields.io/github/issues-raw/kelwyres/Kleborate_viz)
-![Repo Size](https://img.shields.io/github/repo-size/kelwyres/Kleborate_viz)
+  # Welcome to Employee Directory
 
-## Table of Contents
+
+  ## Table of Contents
 
   * [Description](#Description)
-  * [Dependencies](#Description)
   * [Demonstration](#Demonstration)
   * [Installation](#Installation)
+  * [Usage](#Usage)
   * [License](#License)
+  * [Contributions](#Contributions)
   * [Version](#Version)
+  * [Tests](#Tests)
   * [Questions](#Questions)
 
 
-## Description 
+  ## Description
 
-Visualization tool for Kleborate [Kleborate repository](https://github.com/katholt/Kleborate).
+ This is an application use React.js to create an interactive and dynamic employee directory. The page allows users to sort employees by first name, last name or the state of their branch. The application UI is built to be modular to allow reuse of components.
 
-## System Architecture
+  ## Installation
+To local installation, clone this GitHub repository and then:
 
-![Alt text](assets/images/Kleborate_viz.jpg?raw=true "Architecture behind")
+  ``` npm install ```
 
-## Dependencies
+or 
 
-The following programs need to be available/installed for correct operation:
+  ``` npm i ```
 
-* [R](https://www.r-project.org/).
-* [Shiny Server](https://www.rstudio.com/products/shiny/shiny-server/).
+  ## Usage
 
-Package Dependencies
+  To run the application:
 
-KleborateViz requires the following packages (and their dependencies) to be installed for correct operation:
+   ``` npm start ```
 
-```CRAN```
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-```
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-install.packages('shiny')
-install.packages('heatmaply')
-install.packages('ggplot2')
-install.packages('plotly')
-install.packages('dplyr')
-install.packages(reshape2)
-install.packages(vegan)
-install.packages(ComplexHeatmap)
-install.packages(readxl)
-install.packages(pheatmap)
-install.packages(ggrepel)
-install.packages(shinythemes)
-install.packages(RColorBrewer)
-install.packages(lintr)
-install.packages(formatR)
-install.packages(styler)
+  ## Live Application
 
-```
+  Access the live application [here](https://stormy-bayou-03040.herokuapp.com/).
+    ## Installation
+    
+  ## License
 
-## Installation
+  ![License Badge](https://img.shields.io/badge/license-MIT-blue)
 
-## Demonstration
+  ## Contributions
 
-![Kleborate_viz usage demo](assets/videos/video.gif)
+  If you would like to add new features, make improvements or bug fixes, please make a pull request. I will review it and merge it into the application as necessary.
+
+  ## Version
+
+  ![Version Badge](https://img.shields.io/badge/version-1.0-red)
 
 
-## Contact
+  ## Tests
 
-Kleborate_viz is under active development
+  ```npm test```
 
-Please get in touch via the GitHub issues tracker if you have any issues, questions or ideas.
+  ## Questions
 
-For more on our lab, including other software, see [Holtlab](https://holtlab.net/).
+  Please contact me via github or email:
+
+  https://github.com/lcerdeira 
+
+  lcerdeira@gmail.com
