@@ -1,12 +1,12 @@
 # Employee Directory
   
-  ![Code Count](https://img.shields.io/github/languages/count/lcerdeira/workout-tracker) 
-  ![Main Code Base](https://img.shields.io/github/languages/top/lcerdeira/workout-tracker) 
+  ![Code Count](https://img.shields.io/github/languages/count/lcerdeira/empdir) 
+  ![Main Code Base](https://img.shields.io/github/languages/top/lcerdeira/empdir) 
   ![License](https://img.shields.io/badge/license-MIT-blue) 
   ![Version](https://img.shields.io/badge/version-1.0-red) 
-  ![Last Commit](https://img.shields.io/github/last-commit/lcerdeira/workout-tracker) 
-  ![Open Issues](https://img.shields.io/github/issues-raw/lcerdeira/workout-tracker) 
-  ![Repo Size](https://img.shields.io/github/repo-size/lcerdeira/workout-tracker)
+  ![Last Commit](https://img.shields.io/github/last-commit/lcerdeira/empdir) 
+  ![Open Issues](https://img.shields.io/github/issues-raw/lcerdeira/empdir) 
+  ![Repo Size](https://img.shields.io/github/repo-size/lcerdeira/empdir)
 
   # Welcome to Employee Directory
 
