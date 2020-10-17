@@ -49,10 +49,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-  ## Live Application
+  ## Demonstration
 
-  Access the live application [here](https://stormy-bayou-03040.herokuapp.com/).
-    ## Installation
+  Access the live application [here](https://lcerdeira.github.io/empdir/).
     
   ## License
 
@@ -70,6 +69,10 @@ You will also see any lint errors in the console.
   ## Tests
 
   ```npm test```
+
+  ## Help
+
+  Deploy in gitHub [here](https://create-react-app.dev/docs/deployment/#github-pages).
 
   ## Questions
 
