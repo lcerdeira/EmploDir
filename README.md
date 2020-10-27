@@ -51,7 +51,7 @@ You will also see any lint errors in the console.
 
   ## Demonstration
 
-  Access the live application [here](https://github.com/lcerdeira/EmploDir).
+  Access the live application [here](https://lcerdeira.github.io/empdir/).
     
   ## License
 
